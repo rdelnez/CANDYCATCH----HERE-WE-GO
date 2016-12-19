@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ef668c3d6059264fa6e6759cf29cdd0
+timeCreated: 1480993927
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - campaignButton: {fileID: 21300000, guid: 94986d1536120f640861fd3d01b005e8, type: 3}
+  - campaignButtonPressed: {fileID: 21300000, guid: 5b7569e449cf47040a2909ad75ac3a1b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
