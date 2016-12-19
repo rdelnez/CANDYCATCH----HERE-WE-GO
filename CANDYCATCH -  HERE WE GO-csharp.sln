@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D853F49D-0191-88A2-099E-93CF0ABB9038}") = "CANDYCATCH -  HERE WE GO", "Assembly-CSharp-vs.csproj", "{523A44FD-5237-5AAB-69D0-3449B3773F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523A44FD-5237-5AAB-69D0-3449B3773F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523A44FD-5237-5AAB-69D0-3449B3773F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523A44FD-5237-5AAB-69D0-3449B3773F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523A44FD-5237-5AAB-69D0-3449B3773F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+			GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+
+EndGlobal

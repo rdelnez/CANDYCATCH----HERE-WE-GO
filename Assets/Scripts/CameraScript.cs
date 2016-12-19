@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class TeslaCameraManager : MonoBehaviour {
+public class CameraScript : MonoBehaviour {
 
 
 	public Camera cameraComponent;
